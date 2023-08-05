@@ -1,3 +1,6 @@
+# Author: Logan deLaar
+# Github: Logandelaar1
+
 import cv2
 import os
 import glob
