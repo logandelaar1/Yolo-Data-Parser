@@ -1,3 +1,6 @@
+# Author: Logan deLaar
+# Github: Logandelaar1
+
 import cv2
 import os
 import shutil
@@ -42,5 +45,4 @@ for filename in os.listdir(src_dir):
 print("All .jpg files have been processed.")
 
 
-# Author: Logan deLaar
-# Date: 2023/08/05
+
